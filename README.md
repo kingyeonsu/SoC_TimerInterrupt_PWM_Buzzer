@@ -1,2 +1,3 @@
 # SoC_TimerInterrupt_PWM_Buzzer
-TimerInterrupt를 이용한 PWM_Buzzer_Control
+
+TimerInterrupt + PWM_Generator --> Buzzer Control
